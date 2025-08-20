@@ -25,3 +25,13 @@
     transform: rotate(360deg);
   }
 }
+
+.question {
+  margin-top: 200px;
+}
+
+.byline {
+  color: #878787;
+  margin-top: 20px;
+  font-size: 10pt;
+}
