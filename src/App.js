@@ -6,10 +6,10 @@ function App() {
     <div className="App">
       <div className="container">
       <header className="App-header">
-        <h1 className="question">What's the world you're looking for?</h1>
+        <h1 className="question">So you're looking for the meaning of...?</h1>
       </header>
       <main>
-        <Dictionary />
+        <Dictionary defaultKeyword="life"/>
       </main>
       <footer>
         <p className="byline">Coded by Salomé Esteves</p>

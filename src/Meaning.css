@@ -1,0 +1,20 @@
+.Meaning h3 {
+    font-weight: 700;
+    color: #333;
+    line-height: 1;
+}
+
+.definition {
+    color: blue;
+    padding-top: 10px;
+    color: #333;
+    font-size: 12pt;
+    line-height: 1;
+}
+
+.example {
+    color: rgb(39, 157, 123);
+    color: #aeaeae;
+    font-size: 12pt;
+    line-height: 1;
+}
